@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "デビきゅー",
+  "base_artist": "芹澤 優",
+  "createdAt": "2025-12-05T16:35:35.862448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デビきゅー",
+      "artist": "芹澤 優",
+      "has_synced": true,
+      "path": "select/01_デビきゅー_芹澤_優.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デビきゅー",
+      "artist": "芹澤優",
+      "has_synced": true,
+      "path": "select/02_デビきゅー_芹澤優.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "デビきゅー",
+      "artist": "芹澤 優",
+      "has_synced": false,
+      "path": "select/03_デビきゅー_芹澤_優.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デビきゅー -TV ver.-",
+      "artist": "芹澤優",
+      "has_synced": true,
+      "path": "select/04_デビきゅー_-TV_ver.-_芹澤優.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "デビきゅー -TV ver.-",
+      "artist": "芹澤 優",
+      "has_synced": false,
+      "path": "select/05_デビきゅー_-TV_ver.-_芹澤_優.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デビきゅー",
+      "artist": "芹澤優",
+      "has_synced": false,
+      "path": "select/pl_01_デビきゅー_芹澤優.txt"
+    }
+  ]
+}
